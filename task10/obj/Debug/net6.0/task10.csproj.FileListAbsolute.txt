@@ -1,0 +1,15 @@
+D:\программирование\dz 2\task10\bin\Debug\net6.0\task10.exe
+D:\программирование\dz 2\task10\bin\Debug\net6.0\task10.deps.json
+D:\программирование\dz 2\task10\bin\Debug\net6.0\task10.runtimeconfig.json
+D:\программирование\dz 2\task10\bin\Debug\net6.0\task10.dll
+D:\программирование\dz 2\task10\bin\Debug\net6.0\task10.pdb
+D:\программирование\dz 2\task10\obj\Debug\net6.0\task10.csproj.AssemblyReference.cache
+D:\программирование\dz 2\task10\obj\Debug\net6.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\dz 2\task10\obj\Debug\net6.0\task10.AssemblyInfoInputs.cache
+D:\программирование\dz 2\task10\obj\Debug\net6.0\task10.AssemblyInfo.cs
+D:\программирование\dz 2\task10\obj\Debug\net6.0\task10.csproj.CoreCompileInputs.cache
+D:\программирование\dz 2\task10\obj\Debug\net6.0\task10.dll
+D:\программирование\dz 2\task10\obj\Debug\net6.0\refint\task10.dll
+D:\программирование\dz 2\task10\obj\Debug\net6.0\task10.pdb
+D:\программирование\dz 2\task10\obj\Debug\net6.0\task10.genruntimeconfig.cache
+D:\программирование\dz 2\task10\obj\Debug\net6.0\ref\task10.dll
